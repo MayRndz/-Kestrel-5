@@ -1,0 +1,25 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.bak
+*.cpt
+
+# Figures and live script caches
+*.slxc
+*.autosave
+
+# MEX and compiled files
+*.mex*
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# Code generation, build folders, and cache
+slprj/
+codegen/
+*Cache*/
+
+# MATLAB drive and history
+.SimulinkProject/
+_SimulinkProject/
+*.matlab
