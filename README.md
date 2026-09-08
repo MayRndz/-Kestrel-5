@@ -15,30 +15,30 @@ Project Objectives
 - Validate analytical predictions against established references
 
 Project Structure
-MATLAB/          Computational models
-CAD/             SolidWorks models and drawings
-Data/            Reference and analysis data
-Figures/         Generated plots and visualizations
-Validation/      Model validation
-Report/          Technical documentation
+- MATLAB/          Computational models
+- CAD/             SolidWorks models and drawings
+- Data/            Reference and analysis data
+- Figures/         Generated plots and visualizations
+- Validation/      Model validation
+- Report/          Technical documentation
 
 Current Status
 Phase 0 — Project Setup
 
-/ Define project objectives
-/ Establish baseline design parameters
- Develop thermochemistry model
- Develop nozzle model
- Develop performance model
- Develop thermal model
- Perform optimization
- Develop preliminary CAD
- Validate final model
- Complete technical report
+- / Define project objectives
+- / Establish baseline design parameters
+-  Develop thermochemistry model
+-  Develop nozzle model
+-  Develop performance model
+-  Develop thermal model
+-  Perform optimization
+-  Develop preliminary CAD
+-  Validate final model
+-   Complete technical report
 
 Tools
-MATLAB
-SolidWorks
-NASA CEA
-Git / GitHub
-LaTeX
+- MATLAB
+- SolidWorks
+- NASA CEA
+- Git / GitHub
+- LaTeX
